@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <!-- ![snake gif](https://github.com/LouWr/LouWr/blob/output/github-contribution-grid-snake.svg) -->
 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
