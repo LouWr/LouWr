@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 
 ## Languages:
 
@@ -70,3 +71,4 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/LouWr/LouWr/blob/output/github-contribution-grid-snake.svg)
 
+-->
