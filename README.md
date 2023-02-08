@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/LouWr/LouWr/blob/output/github-contribution-grid-snake.svg)
 
-<b>My GitHub Stats</b>
+## My GitHub Stats
 <a href="http://www.github.com/LouWr"><img src="https://github-readme-stats.vercel.app/api?username=LouWr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LouWr's GitHub stats" /></a>
 
