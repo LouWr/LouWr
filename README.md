@@ -92,10 +92,9 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 <br/>
 
-departures
-![Brighton Departures](https://trainboard.onrender.com/departures.svg)
-
 <!--![snake gif](https://github.com/LouWr/LouWr/blob/output/github-contribution-grid-snake.svg)-->
+
+![Brighton Departures](https://trainboard.onrender.com/departures.svg)
 
 ## My GitHub Stats
 <a href="http://www.github.com/LouWr"><img src="https://github-readme-stats.vercel.app/api?username=LouWr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LouWr's GitHub stats" /></a>
