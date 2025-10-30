@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 <br/>
 
+departures
 ![Brighton Departures](https://trainboard.onrender.com/departures.svg)
 
 <!--![snake gif](https://github.com/LouWr/LouWr/blob/output/github-contribution-grid-snake.svg)-->
