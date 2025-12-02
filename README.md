@@ -1,9 +1,5 @@
 ### Hi there 😃
 
-## 🚂 Live Depatures Board - Brighton 🚂
-![Brighton Departures](https://trainboard.fly.dev/departures.svg)
-<!--Real-time departure board built with TypeScript/Bun, fetching live data from RTT API and rendering as SVG.-->
-
 ## Languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
